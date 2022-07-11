@@ -18,3 +18,5 @@
 2.  O(n^2)
 
 4. Average Case
+
+Best case: O(n)
